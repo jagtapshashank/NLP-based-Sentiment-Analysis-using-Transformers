@@ -18,4 +18,7 @@ Download yelp reviews train and test datasets from here: https://drive.google.co
 
 After that run ShashankJagtap_MLproject.ipynb step by step.
 
+## Presentation
+Presentation link: https://drive.google.com/drive/folders/1sTY_xy7ZwH9T-n48tKssRvRtZrjqymWR?usp=sharing
+
 ## Caution: This project demands significant computational power for model training and should only be run on systems equipped with a powerful GPU.
